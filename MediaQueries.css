@@ -1,0 +1,35 @@
+@media screen and (max-width:430px) {
+    .logo{
+        margin-top: 40px;
+        padding: 0 30px;
+    }
+    .header-button{
+        display: none;
+    }
+    .menu{
+        display: none;
+    }
+    /* hero-section */
+    .for-mobile-screen{
+        display:block;
+      }
+    .hero-section{
+        display: none;
+    }
+    .right-section{
+        display: block;
+    }
+    .left-section{
+        margin-top: 30px;
+        text-align: center;
+      }
+      .left-section .desc{
+        text-align: center;
+        padding: 0 30px;
+      }
+      .right-section{
+        margin-top: 40px;
+        padding: 0 30px;
+      }
+  
+}
